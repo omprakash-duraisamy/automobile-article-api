@@ -1,2 +1,4 @@
 # automobile-article-api
-this is a sample project for creating node js api
+This API is for Automobile-article app
+
+Please find the PostgreSQL DB scripts in the DBScripts.txt file
